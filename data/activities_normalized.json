@@ -6923,9 +6923,9 @@
     "moving_time": 2967.0,
     "name": "They should invent a run that's only uphill",
     "raw_activity_type": "Run",
-    "raw_type": "Run",
+    "raw_type": "TrailRun",
     "start_date_local": "2026-02-24T16:44:06Z",
-    "type": "Run",
+    "type": "TrailRun",
     "year": 2026
   },
   {
@@ -6991,6 +6991,19 @@
     "raw_type": "GravelRide",
     "start_date_local": "2026-02-28T08:38:09Z",
     "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-01",
+    "distance": 31012.4,
+    "elevation_gain": 335.0,
+    "id": "17571925581",
+    "moving_time": 3532.0,
+    "name": "Zwift - Recovery Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-01T20:45:34Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]

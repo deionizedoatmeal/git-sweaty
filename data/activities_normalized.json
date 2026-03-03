@@ -7005,5 +7005,31 @@
     "start_date_local": "2026-03-01T20:45:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 3831.8,
+    "elevation_gain": 30.0,
+    "id": "17581762102",
+    "moving_time": 1170.0,
+    "name": "My bones... they are weary",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-02T16:50:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 36300.4,
+    "elevation_gain": 325.0,
+    "id": "17582558518",
+    "moving_time": 3922.0,
+    "name": "Zwift - Zone 2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-02T17:44:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

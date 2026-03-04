@@ -7031,5 +7031,31 @@
     "start_date_local": "2026-03-02T17:44:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 12004.4,
+    "elevation_gain": 12.4,
+    "id": "17594763520",
+    "moving_time": 3416.0,
+    "name": "'beezy' 1000s",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-03T16:18:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17595189612",
+    "moving_time": 2761.0,
+    "name": "Weights",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-03T17:47:45Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

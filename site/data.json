@@ -4886,6 +4886,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17595189612",
       "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 18,
+      "name": "Zwift - Zone 2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17608449099",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9416,6 +9425,15 @@
           "distance": 36300.4,
           "elevation_gain": 325.0,
           "moving_time": 3922.0
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "17608449099"
+          ],
+          "count": 1,
+          "distance": 47697.9,
+          "elevation_gain": 730.0,
+          "moving_time": 5704.0
         }
       },
       "WeightTraining": {
@@ -9557,7 +9575,7 @@
       }
     }
   },
-  "generated_at": "2026-03-04T15:35:42.345486+00:00",
+  "generated_at": "2026-03-05T15:45:28.331939+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

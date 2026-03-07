@@ -4904,6 +4904,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17620450732",
       "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 15,
+      "name": "My body is not prepared for the summer heat \ud83e\udd2f",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/17629615925",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8838,6 +8847,15 @@
           "distance": 169275.0,
           "elevation_gain": 2511.0,
           "moving_time": 22657.0
+        },
+        "2026-03-06": {
+          "activity_ids": [
+            "17629615925"
+          ],
+          "count": 1,
+          "distance": 37741.2,
+          "elevation_gain": 860.0,
+          "moving_time": 6156.0
         }
       },
       "Run": {
@@ -9593,7 +9611,7 @@
       }
     }
   },
-  "generated_at": "2026-03-06T15:32:36.286694+00:00",
+  "generated_at": "2026-03-07T15:18:55.920988+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

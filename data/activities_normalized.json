@@ -7083,5 +7083,18 @@
     "start_date_local": "2026-03-05T19:47:06Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 37741.2,
+    "elevation_gain": 860.0,
+    "id": "17629615925",
+    "moving_time": 6156.0,
+    "name": "My body is not prepared for the summer heat \ud83e\udd2f",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-03-06T15:15:34Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

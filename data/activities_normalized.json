@@ -7096,5 +7096,18 @@
     "start_date_local": "2026-03-06T15:15:34Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 141099.0,
+    "elevation_gain": 1108.0,
+    "id": "17641539854",
+    "moving_time": 18947.0,
+    "name": "A little bit of everything",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-03-07T10:58:23Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

@@ -4922,6 +4922,24 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/17641539854",
       "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 16,
+      "name": "Was craving some rainbow mountain trail scrambling",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17654414566",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 20,
+      "name": "Zwift - Zone 2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17655738397",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9160,6 +9178,15 @@
           "distance": 9078.9,
           "elevation_gain": 239.5,
           "moving_time": 2967.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17654414566"
+          ],
+          "count": 1,
+          "distance": 10367.5,
+          "elevation_gain": 180.6,
+          "moving_time": 3375.0
         }
       },
       "VirtualRide": {
@@ -9488,6 +9515,15 @@
           "distance": 30764.9,
           "elevation_gain": 718.0,
           "moving_time": 4256.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17655738397"
+          ],
+          "count": 1,
+          "distance": 53434.5,
+          "elevation_gain": 376.0,
+          "moving_time": 5431.0
         }
       },
       "WeightTraining": {
@@ -9629,7 +9665,7 @@
       }
     }
   },
-  "generated_at": "2026-03-08T15:19:21.597551+00:00",
+  "generated_at": "2026-03-09T15:54:25.718609+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

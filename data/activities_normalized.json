@@ -7109,5 +7109,31 @@
     "start_date_local": "2026-03-07T10:58:23Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 10367.5,
+    "elevation_gain": 180.6,
+    "id": "17654414566",
+    "moving_time": 3375.0,
+    "name": "Was craving some rainbow mountain trail scrambling",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-08T16:11:45Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 53434.5,
+    "elevation_gain": 376.0,
+    "id": "17655738397",
+    "moving_time": 5431.0,
+    "name": "Zwift - Zone 2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-08T20:36:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

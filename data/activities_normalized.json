@@ -7148,5 +7148,44 @@
     "start_date_local": "2026-03-09T19:28:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 1558.1,
+    "elevation_gain": 0.0,
+    "id": "17679104665",
+    "moving_time": 477.0,
+    "name": "Treadmill Extension",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-10T18:04:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 6766.1,
+    "elevation_gain": 13.0,
+    "id": "17679104867",
+    "moving_time": 1973.0,
+    "name": "Alabama humidity is back baby",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-10T17:19:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17679606414",
+    "moving_time": 2833.0,
+    "name": "Weights",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-10T18:22:53Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

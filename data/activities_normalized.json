@@ -7200,5 +7200,18 @@
     "start_date_local": "2026-03-11T18:38:38Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 11488.8,
+    "elevation_gain": 298.1,
+    "id": "17702513951",
+    "moving_time": 3643.0,
+    "name": "Perfect weather for a loop on ~the hills~",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-12T16:26:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -7213,5 +7213,18 @@
     "start_date_local": "2026-03-12T16:26:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 31532.0,
+    "elevation_gain": 487.0,
+    "id": "17713195262",
+    "moving_time": 4590.0,
+    "name": "My equine EPO regimen isn't paying off the way I hoped",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-13T17:10:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

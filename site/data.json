@@ -4994,6 +4994,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17702513951",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 17,
+      "name": "My equine EPO regimen isn't paying off the way I hoped",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17713195262",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8948,6 +8957,17 @@
           "moving_time": 18947.0
         }
       },
+      "Ride": {
+        "2026-03-13": {
+          "activity_ids": [
+            "17713195262"
+          ],
+          "count": 1,
+          "distance": 31532.0,
+          "elevation_gain": 487.0,
+          "moving_time": 4590.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -9765,7 +9785,7 @@
       }
     }
   },
-  "generated_at": "2026-03-13T15:38:03.968263+00:00",
+  "generated_at": "2026-03-14T15:22:47.922929+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

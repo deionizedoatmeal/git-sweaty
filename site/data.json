@@ -5003,6 +5003,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17713195262",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 7,
+      "name": "Nice!",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/17723664899",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8955,6 +8964,15 @@
           "distance": 141099.0,
           "elevation_gain": 1108.0,
           "moving_time": 18947.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17723664899"
+          ],
+          "count": 1,
+          "distance": 148006.0,
+          "elevation_gain": 1454.0,
+          "moving_time": 20375.0
         }
       },
       "Ride": {
@@ -9785,7 +9803,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:22:47.922929+00:00",
+  "generated_at": "2026-03-15T15:24:55.965214+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

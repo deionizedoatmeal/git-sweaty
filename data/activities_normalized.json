@@ -7226,5 +7226,18 @@
     "start_date_local": "2026-03-13T17:10:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 148006.0,
+    "elevation_gain": 1454.0,
+    "id": "17723664899",
+    "moving_time": 20375.0,
+    "name": "Nice!",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-03-14T07:59:54Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

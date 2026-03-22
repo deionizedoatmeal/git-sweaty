@@ -7239,5 +7239,18 @@
     "start_date_local": "2026-03-14T07:59:54Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 7195.2,
+    "elevation_gain": 12.0,
+    "id": "17810149883",
+    "moving_time": 875.0,
+    "name": "Zwift - We are so back babyyyy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-21T21:04:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

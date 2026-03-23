@@ -7252,5 +7252,18 @@
     "start_date_local": "2026-03-21T21:04:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 19604.1,
+    "elevation_gain": 59.0,
+    "id": "17822972827",
+    "moving_time": 2240.0,
+    "name": "Zwift - Easy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T19:24:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -7278,5 +7278,31 @@
     "start_date_local": "2026-03-23T18:51:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 8283.0,
+    "elevation_gain": 40.0,
+    "id": "17847750100",
+    "moving_time": 875.0,
+    "name": "Zwift - Easy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-24T18:55:22Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 12109.3,
+    "elevation_gain": 94.0,
+    "id": "17847933352",
+    "moving_time": 1145.0,
+    "name": "Zwift - Ill Advised One Armed Efforts",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-24T19:12:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -5039,6 +5039,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17834586147",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 18,
+      "name": "Zwift - Easy",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17847750100",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 19,
+      "name": "Zwift - Ill Advised One Armed Efforts",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17847933352",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9707,6 +9725,16 @@
           "distance": 14684.6,
           "elevation_gain": 77.0,
           "moving_time": 1609.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17847750100",
+            "17847933352"
+          ],
+          "count": 2,
+          "distance": 20392.3,
+          "elevation_gain": 134.0,
+          "moving_time": 2020.0
         }
       },
       "WeightTraining": {
@@ -9857,7 +9885,7 @@
       }
     }
   },
-  "generated_at": "2026-03-24T16:02:25.624354+00:00",
+  "generated_at": "2026-03-25T16:05:32.401165+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

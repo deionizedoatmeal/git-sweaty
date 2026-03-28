@@ -7317,5 +7317,31 @@
     "start_date_local": "2026-03-25T19:29:05Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 11384.2,
+    "elevation_gain": 0.0,
+    "id": "17883563053",
+    "moving_time": 1276.0,
+    "name": "Zwift - Easy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-26T19:29:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 17830.0,
+    "elevation_gain": 0.0,
+    "id": "17883563055",
+    "moving_time": 2047.0,
+    "name": "Zwift - Easy",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T20:28:47Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -5066,6 +5066,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17860529773",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 19,
+      "name": "Zwift - Easy",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17883563053",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 20,
+      "name": "Zwift - Easy",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17883563055",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9753,6 +9771,24 @@
           "distance": 28164.2,
           "elevation_gain": 102.0,
           "moving_time": 2964.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17883563053"
+          ],
+          "count": 1,
+          "distance": 11384.2,
+          "elevation_gain": 0.0,
+          "moving_time": 1276.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17883563055"
+          ],
+          "count": 1,
+          "distance": 17830.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2047.0
         }
       },
       "WeightTraining": {
@@ -9903,7 +9939,7 @@
       }
     }
   },
-  "generated_at": "2026-03-27T15:47:39.434824+00:00",
+  "generated_at": "2026-03-28T15:26:32.969863+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

@@ -5183,6 +5183,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17979643245",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 19,
+      "name": "Zwift - Easy",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17993819438",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9963,6 +9972,15 @@
           "distance": 54365.1,
           "elevation_gain": 277.0,
           "moving_time": 5434.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17993819438"
+          ],
+          "count": 1,
+          "distance": 27968.4,
+          "elevation_gain": 125.0,
+          "moving_time": 3034.0
         }
       },
       "WeightTraining": {
@@ -10113,7 +10131,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:27:07.883676+00:00",
+  "generated_at": "2026-04-06T15:41:19.480135+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

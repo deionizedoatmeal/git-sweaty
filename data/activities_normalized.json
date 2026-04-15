@@ -7655,5 +7655,18 @@
     "start_date_local": "2026-04-13T18:14:06Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 28089.8,
+    "elevation_gain": 303.0,
+    "id": "18111629140",
+    "moving_time": 3208.0,
+    "name": "Zwift - Zone 2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-14T17:22:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -7668,5 +7668,31 @@
     "start_date_local": "2026-04-14T17:22:41Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 9033.2,
+    "elevation_gain": 84.0,
+    "id": "18125310385",
+    "moving_time": 999.0,
+    "name": "Zwift - Warmup",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T18:10:05Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 72904.6,
+    "elevation_gain": 842.0,
+    "id": "18126370450",
+    "moving_time": 7275.0,
+    "name": "Zwift - Race",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T18:30:36Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

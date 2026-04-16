@@ -5309,6 +5309,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18111629140",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 18,
+      "name": "Zwift - Warmup",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18125310385",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 18,
+      "name": "Zwift - Race",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18126370450",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10183,6 +10201,16 @@
           "distance": 28089.8,
           "elevation_gain": 303.0,
           "moving_time": 3208.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18125310385",
+            "18126370450"
+          ],
+          "count": 2,
+          "distance": 81937.8,
+          "elevation_gain": 926.0,
+          "moving_time": 8274.0
         }
       },
       "WeightTraining": {
@@ -10333,7 +10361,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T16:01:44.773937+00:00",
+  "generated_at": "2026-04-16T16:18:51.492332+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

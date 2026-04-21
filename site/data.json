@@ -5372,6 +5372,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18178735595",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 16,
+      "name": "Zwift - Endurance",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18190337534",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10293,6 +10302,15 @@
           "distance": 34872.5,
           "elevation_gain": 1054.0,
           "moving_time": 4527.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18190337534"
+          ],
+          "count": 1,
+          "distance": 40440.8,
+          "elevation_gain": 246.0,
+          "moving_time": 4278.0
         }
       },
       "WeightTraining": {
@@ -10443,7 +10461,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T16:03:48.968677+00:00",
+  "generated_at": "2026-04-21T16:07:17.899487+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

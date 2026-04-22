@@ -5381,6 +5381,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18190337534",
       "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 17,
+      "name": "Zwift - 4 x 4' VO2Max + Heat",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18205091881",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10311,6 +10320,15 @@
           "distance": 40440.8,
           "elevation_gain": 246.0,
           "moving_time": 4278.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18205091881"
+          ],
+          "count": 1,
+          "distance": 42560.9,
+          "elevation_gain": 556.0,
+          "moving_time": 4720.0
         }
       },
       "WeightTraining": {
@@ -10461,7 +10479,7 @@
       }
     }
   },
-  "generated_at": "2026-04-21T16:07:17.899487+00:00",
+  "generated_at": "2026-04-22T16:05:51.081489+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

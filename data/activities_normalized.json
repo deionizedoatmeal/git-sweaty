@@ -7772,5 +7772,18 @@
     "start_date_local": "2026-04-20T16:33:31Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 42560.9,
+    "elevation_gain": 556.0,
+    "id": "18205091881",
+    "moving_time": 4720.0,
+    "name": "Zwift - 4 x 4' VO2Max + Heat",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T17:02:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

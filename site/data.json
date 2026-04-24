@@ -5399,6 +5399,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18219137336",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 17,
+      "name": "Zwift - 4 x 3 x 2'/2' Over Unders",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18233133815",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10347,6 +10356,15 @@
           "distance": 53891.6,
           "elevation_gain": 407.0,
           "moving_time": 5452.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18233133815"
+          ],
+          "count": 1,
+          "distance": 53462.9,
+          "elevation_gain": 688.0,
+          "moving_time": 5879.0
         }
       },
       "WeightTraining": {
@@ -10497,7 +10515,7 @@
       }
     }
   },
-  "generated_at": "2026-04-23T16:26:29.141565+00:00",
+  "generated_at": "2026-04-24T16:01:25.760045+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

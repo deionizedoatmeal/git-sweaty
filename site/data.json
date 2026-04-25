@@ -5408,6 +5408,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18233133815",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 19,
+      "name": "Zwift - Endurance + 50' Heat",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18245795297",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10365,6 +10374,15 @@
           "distance": 53462.9,
           "elevation_gain": 688.0,
           "moving_time": 5879.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18245795297"
+          ],
+          "count": 1,
+          "distance": 44160.2,
+          "elevation_gain": 578.0,
+          "moving_time": 5466.0
         }
       },
       "WeightTraining": {
@@ -10515,7 +10533,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T16:01:25.760045+00:00",
+  "generated_at": "2026-04-25T15:36:05.186578+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

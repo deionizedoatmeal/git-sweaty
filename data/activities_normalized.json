@@ -7902,5 +7902,18 @@
     "start_date_local": "2026-04-29T19:56:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 29970.1,
+    "elevation_gain": 0.0,
+    "id": "18333157063",
+    "moving_time": 3011.0,
+    "name": "Zwift - 5 x '4 VO2Max",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T01:38:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

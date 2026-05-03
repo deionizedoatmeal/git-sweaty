@@ -5480,6 +5480,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18333157063",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 12,
+      "name": "Recovery Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18350090329",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9461,6 +9470,15 @@
           "distance": 29970.1,
           "elevation_gain": 0.0,
           "moving_time": 3011.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18350090329"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 935.0
         }
       },
       "Run": {
@@ -10651,7 +10669,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:41:11.884758+00:00",
+  "generated_at": "2026-05-03T15:41:50.833284+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

@@ -7915,5 +7915,18 @@
     "start_date_local": "2026-05-01T01:38:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18350090329",
+    "moving_time": 935.0,
+    "name": "Recovery Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T12:50:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

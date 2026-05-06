@@ -7941,5 +7941,18 @@
     "start_date_local": "2026-05-04T19:07:22Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 39626.7,
+    "elevation_gain": 906.0,
+    "id": "18392449055",
+    "moving_time": 5428.0,
+    "name": "Zwift - Endurance w/ 40' Heat",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-05T17:00:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

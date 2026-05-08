@@ -7980,5 +7980,18 @@
     "start_date_local": "2026-05-06T17:44:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 3444.3,
+    "elevation_gain": 20.0,
+    "id": "18419176600",
+    "moving_time": 1032.0,
+    "name": "Swear I can feel the titanium plate rattling around in there when I run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T18:38:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

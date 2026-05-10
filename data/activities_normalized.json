@@ -8006,5 +8006,31 @@
     "start_date_local": "2026-05-08T18:20:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 23195.4,
+    "elevation_gain": 52.0,
+    "id": "18441280137",
+    "moving_time": 3939.0,
+    "name": "Recovery cruise w/ Kyle",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T09:26:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 3984.0,
+    "elevation_gain": 42.5,
+    "id": "18445617298",
+    "moving_time": 1198.0,
+    "name": "Sunset shakeout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T19:20:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

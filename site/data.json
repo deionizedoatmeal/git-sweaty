@@ -5561,6 +5561,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18445617298",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 16,
+      "name": "Arsenal wildlife viewing extravaganza",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18458796522",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9569,6 +9578,15 @@
           "distance": 23195.4,
           "elevation_gain": 52.0,
           "moving_time": 3939.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18458796522"
+          ],
+          "count": 1,
+          "distance": 101059.0,
+          "elevation_gain": 268.0,
+          "moving_time": 11128.0
         }
       },
       "Run": {
@@ -10813,7 +10831,7 @@
       }
     }
   },
-  "generated_at": "2026-05-10T15:47:14.885077+00:00",
+  "generated_at": "2026-05-11T17:22:01.861713+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

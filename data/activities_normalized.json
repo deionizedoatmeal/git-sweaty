@@ -8032,5 +8032,18 @@
     "start_date_local": "2026-05-09T19:20:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 101059.0,
+    "elevation_gain": 268.0,
+    "id": "18458796522",
+    "moving_time": 11128.0,
+    "name": "Arsenal wildlife viewing extravaganza",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T16:50:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

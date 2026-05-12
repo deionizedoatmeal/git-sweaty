@@ -8045,5 +8045,18 @@
     "start_date_local": "2026-05-10T16:50:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 5883.3,
+    "elevation_gain": 40.9,
+    "id": "18470264023",
+    "moving_time": 1771.0,
+    "name": "Absolutely no juice left",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-11T17:48:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

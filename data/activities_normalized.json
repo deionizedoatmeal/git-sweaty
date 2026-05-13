@@ -8058,5 +8058,18 @@
     "start_date_local": "2026-05-11T17:48:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 52538.4,
+    "elevation_gain": 80.0,
+    "id": "18484973861",
+    "moving_time": 5920.0,
+    "name": "30/30s and a pack of haribo twin snakes",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-12T18:07:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

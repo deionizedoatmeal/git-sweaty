@@ -8084,5 +8084,31 @@
     "start_date_local": "2026-05-13T19:23:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 5280.7,
+    "elevation_gain": 63.3,
+    "id": "18510648792",
+    "moving_time": 1846.0,
+    "name": "Short & steep hill reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T18:18:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 37162.0,
+    "elevation_gain": 452.0,
+    "id": "18511421308",
+    "moving_time": 4214.0,
+    "name": "Zwift - 70' Endurance w/ 40' Heat",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-14T19:10:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

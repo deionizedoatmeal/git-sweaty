@@ -5615,6 +5615,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18511421308",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 18,
+      "name": "Zwift - Recovery Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18535701651",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10771,6 +10780,15 @@
           "distance": 37162.0,
           "elevation_gain": 452.0,
           "moving_time": 4214.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18535701651"
+          ],
+          "count": 1,
+          "distance": 16362.8,
+          "elevation_gain": 178.0,
+          "moving_time": 2082.0
         }
       },
       "WeightTraining": {
@@ -10921,7 +10939,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:53:44.098109+00:00",
+  "generated_at": "2026-05-17T15:55:13.381334+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

@@ -8123,5 +8123,18 @@
     "start_date_local": "2026-05-16T18:13:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 24890.5,
+    "elevation_gain": 207.0,
+    "id": "18550058782",
+    "moving_time": 2727.0,
+    "name": "Zwift - Easy Endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-17T20:28:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

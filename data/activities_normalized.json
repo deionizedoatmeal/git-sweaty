@@ -8136,5 +8136,18 @@
     "start_date_local": "2026-05-17T20:28:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 63523.3,
+    "elevation_gain": 336.0,
+    "id": "18561842191",
+    "moving_time": 7736.0,
+    "name": "4 x 5' VO2Max",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-18T17:08:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

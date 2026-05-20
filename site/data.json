@@ -5642,6 +5642,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18561842191",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18575343140",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 19,
+      "name": "Zwift - 80' Endurance w/ 40' Heat",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18576186652",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10016,6 +10034,15 @@
           "distance": 5280.7,
           "elevation_gain": 63.3,
           "moving_time": 1846.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18575343140"
+          ],
+          "count": 1,
+          "distance": 3831.9,
+          "elevation_gain": 24.4,
+          "moving_time": 1200.0
         }
       },
       "TrailRun": {
@@ -10825,6 +10852,15 @@
           "distance": 24890.5,
           "elevation_gain": 207.0,
           "moving_time": 2727.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18576186652"
+          ],
+          "count": 1,
+          "distance": 47235.0,
+          "elevation_gain": 282.0,
+          "moving_time": 4853.0
         }
       },
       "WeightTraining": {
@@ -10975,7 +11011,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:35:55.116768+00:00",
+  "generated_at": "2026-05-20T17:52:03.235502+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

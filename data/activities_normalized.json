@@ -8175,5 +8175,18 @@
     "start_date_local": "2026-05-19T19:11:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 56555.0,
+    "elevation_gain": 672.0,
+    "id": "18589048652",
+    "moving_time": 5761.0,
+    "name": "Zwift - Threshold 4 x 12'",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-20T17:31:22Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

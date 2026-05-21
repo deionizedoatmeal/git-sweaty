@@ -5660,6 +5660,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18576186652",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 17,
+      "name": "Zwift - Threshold 4 x 12'",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18589048652",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10861,6 +10870,15 @@
           "distance": 47235.0,
           "elevation_gain": 282.0,
           "moving_time": 4853.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18589048652"
+          ],
+          "count": 1,
+          "distance": 56555.0,
+          "elevation_gain": 672.0,
+          "moving_time": 5761.0
         }
       },
       "WeightTraining": {
@@ -11011,7 +11029,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:52:03.235502+00:00",
+  "generated_at": "2026-05-21T17:28:43.205164+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

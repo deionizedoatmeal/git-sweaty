@@ -5678,6 +5678,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18603118099",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 17,
+      "name": "Trying to squeeze in a workout between tornados",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18614658169",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9713,6 +9722,15 @@
           "distance": 63523.3,
           "elevation_gain": 336.0,
           "moving_time": 7736.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18614658169"
+          ],
+          "count": 1,
+          "distance": 55607.8,
+          "elevation_gain": 115.0,
+          "moving_time": 6391.0
         }
       },
       "Run": {
@@ -11047,7 +11065,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:04:25.960628+00:00",
+  "generated_at": "2026-05-23T15:59:00.807131+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

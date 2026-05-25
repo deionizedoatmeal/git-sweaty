@@ -8227,5 +8227,44 @@
     "start_date_local": "2026-05-23T21:29:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 3787.6,
+    "elevation_gain": 25.0,
+    "id": "18641987334",
+    "moving_time": 1083.0,
+    "name": "Steady Brick",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T20:02:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18642215878",
+    "moving_time": 2199.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T20:44:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 24330.3,
+    "elevation_gain": 378.0,
+    "id": "18642296368",
+    "moving_time": 2859.0,
+    "name": "Zwift - Easy Brick",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-24T20:44:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

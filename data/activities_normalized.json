@@ -8305,5 +8305,18 @@
     "start_date_local": "2026-05-25T20:12:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 4843.3,
+    "elevation_gain": 8.1,
+    "id": "18667168167",
+    "moving_time": 1653.0,
+    "name": "Easy openers turned into a death march",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T16:07:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

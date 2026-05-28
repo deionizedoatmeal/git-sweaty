@@ -5759,6 +5759,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18667168167",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 18,
+      "name": "Zwift - 70' Endurance w/ 40' Heat",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18682676083",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11051,6 +11060,15 @@
           "distance": 24965.3,
           "elevation_gain": 583.0,
           "moving_time": 3624.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18682676083"
+          ],
+          "count": 1,
+          "distance": 39049.0,
+          "elevation_gain": 326.0,
+          "moving_time": 4251.0
         }
       },
       "WeightTraining": {
@@ -11201,7 +11219,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T17:55:07.522912+00:00",
+  "generated_at": "2026-05-28T18:02:39.043511+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

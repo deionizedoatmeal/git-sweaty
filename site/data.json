@@ -5768,6 +5768,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18682676083",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 18,
+      "name": "Spooky & misty",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18696680220",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9821,6 +9830,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2199.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18696680220"
+          ],
+          "count": 1,
+          "distance": 46451.6,
+          "elevation_gain": 173.0,
+          "moving_time": 5584.0
         }
       },
       "Run": {
@@ -11219,7 +11237,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T18:02:39.043511+00:00",
+  "generated_at": "2026-05-29T18:09:15.081974+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

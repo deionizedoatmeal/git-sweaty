@@ -8344,5 +8344,31 @@
     "start_date_local": "2026-05-28T18:29:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 6991.7,
+    "elevation_gain": 53.0,
+    "id": "18708870517",
+    "moving_time": 2066.0,
+    "name": "Never have I sweat so much before",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T19:20:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 27614.6,
+    "elevation_gain": 509.0,
+    "id": "18709479481",
+    "moving_time": 3650.0,
+    "name": "Zwift - Endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-29T20:46:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

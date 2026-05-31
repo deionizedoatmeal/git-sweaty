@@ -8370,5 +8370,18 @@
     "start_date_local": "2026-05-29T20:46:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 6114.9,
+    "elevation_gain": 182.6,
+    "id": "18722151636",
+    "moving_time": 1969.0,
+    "name": "Madkin lap and some strides",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-30T19:02:16Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

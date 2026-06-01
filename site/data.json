@@ -5804,6 +5804,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18722151636",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 18,
+      "name": "Zwift - Race",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18736002868",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11141,6 +11150,15 @@
           "distance": 27614.6,
           "elevation_gain": 509.0,
           "moving_time": 3650.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18736002868"
+          ],
+          "count": 1,
+          "distance": 30899.4,
+          "elevation_gain": 1049.0,
+          "moving_time": 4137.0
         }
       },
       "WeightTraining": {
@@ -11291,7 +11309,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:02:13.033137+00:00",
+  "generated_at": "2026-06-01T19:53:54.606259+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

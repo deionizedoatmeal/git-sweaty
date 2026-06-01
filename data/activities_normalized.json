@@ -8383,5 +8383,18 @@
     "start_date_local": "2026-05-30T19:02:16Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 30899.4,
+    "elevation_gain": 1049.0,
+    "id": "18736002868",
+    "moving_time": 4137.0,
+    "name": "Zwift - Race",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-31T18:00:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

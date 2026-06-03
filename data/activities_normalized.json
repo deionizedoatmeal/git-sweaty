@@ -8409,5 +8409,31 @@
     "start_date_local": "2026-06-01T18:36:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 4066.4,
+    "elevation_gain": 27.3,
+    "id": "18763007252",
+    "moving_time": 1148.0,
+    "name": "Quick Shakeout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T18:10:45Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 21255.9,
+    "elevation_gain": 309.0,
+    "id": "18763548092",
+    "moving_time": 2547.0,
+    "name": "Zwift - Recovery Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-02T18:42:10Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

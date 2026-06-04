@@ -8435,5 +8435,18 @@
     "start_date_local": "2026-06-02T18:42:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 42660.7,
+    "elevation_gain": 815.0,
+    "id": "18777558512",
+    "moving_time": 7090.0,
+    "name": "Snake season up on the mountain \ud83d\ude2c",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-03T17:37:46Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

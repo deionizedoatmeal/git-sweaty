@@ -8448,5 +8448,31 @@
     "start_date_local": "2026-06-03T17:37:46Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 6002.1,
+    "elevation_gain": 45.0,
+    "id": "18791237439",
+    "moving_time": 1804.0,
+    "name": "Sunset mileage",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T19:27:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 30975.9,
+    "elevation_gain": 184.0,
+    "id": "18791688569",
+    "moving_time": 3056.0,
+    "name": "Zwift - Endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T20:25:20Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

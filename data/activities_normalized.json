@@ -8474,5 +8474,57 @@
     "start_date_local": "2026-06-04T20:25:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 23767.6,
+    "elevation_gain": 63.0,
+    "id": "18803700619",
+    "moving_time": 2451.0,
+    "name": "Quick TT Position Tuneup",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T19:37:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 2352.4,
+    "elevation_gain": 10.4,
+    "id": "18808669128",
+    "moving_time": 714.0,
+    "name": "Warm up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T06:26:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 8113.1,
+    "elevation_gain": 34.2,
+    "id": "18809934819",
+    "moving_time": 1964.0,
+    "name": "HC Duathlon Run 1 & 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T07:00:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 17985.6,
+    "elevation_gain": 82.0,
+    "id": "18810161870",
+    "moving_time": 1652.0,
+    "name": "H&C Duathlon Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T07:21:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -5889,7 +5889,7 @@
     {
       "date": "2026-06-06",
       "hour": 7,
-      "name": "HC Duathlon Run 1 & 2",
+      "name": "H&C Duathlon Run 1 & 2",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18809934819",
@@ -9989,9 +9989,9 @@
             "18810161870"
           ],
           "count": 1,
-          "distance": 17985.6,
-          "elevation_gain": 82.0,
-          "moving_time": 1652.0
+          "distance": 17931.6,
+          "elevation_gain": 104.6,
+          "moving_time": 1627.0
         }
       },
       "Run": {
@@ -11481,7 +11481,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T16:03:13.068366+00:00",
+  "generated_at": "2026-06-07T16:10:50.513773+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

@@ -8539,5 +8539,18 @@
     "start_date_local": "2026-06-07T20:54:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 8418.4,
+    "elevation_gain": 200.3,
+    "id": "18843694079",
+    "moving_time": 2606.0,
+    "name": "Hilly fartlek & some strides",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-08T17:42:53Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

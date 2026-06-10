@@ -8552,5 +8552,31 @@
     "start_date_local": "2026-06-08T17:42:53Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 4022.5,
+    "elevation_gain": 25.0,
+    "id": "18858888718",
+    "moving_time": 1199.0,
+    "name": "Recovery shakeout w/ a full serving of gnats ingested",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T19:55:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 39037.1,
+    "elevation_gain": 394.0,
+    "id": "18859520454",
+    "moving_time": 4230.0,
+    "name": "Zwift - Endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-09T20:52:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

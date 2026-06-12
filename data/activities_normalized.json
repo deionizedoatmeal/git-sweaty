@@ -8578,5 +8578,44 @@
     "start_date_local": "2026-06-09T20:52:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 58672.4,
+    "elevation_gain": 113.0,
+    "id": "18872481196",
+    "moving_time": 6325.0,
+    "name": "30/30s in the heat \ud83d\ude35\u200d\ud83d\udcab",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-10T18:26:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 44716.9,
+    "elevation_gain": 145.0,
+    "id": "18885285103",
+    "moving_time": 4813.0,
+    "name": "Endurance",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-11T17:40:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 6064.3,
+    "elevation_gain": 22.0,
+    "id": "18885295146",
+    "moving_time": 1735.0,
+    "name": "Giving myself heatstroke for some reason",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-11T19:04:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -8617,5 +8617,18 @@
     "start_date_local": "2026-06-11T19:04:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 13050.2,
+    "elevation_gain": 62.0,
+    "id": "18897552291",
+    "moving_time": 1567.0,
+    "name": "Quick shakeout ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T18:39:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

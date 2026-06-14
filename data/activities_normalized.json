@@ -8630,5 +8630,18 @@
     "start_date_local": "2026-06-12T18:39:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 248571.0,
+    "elevation_gain": 3528.0,
+    "id": "18908534251",
+    "moving_time": 26414.0,
+    "name": "Sequatchie 150",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-13T06:59:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

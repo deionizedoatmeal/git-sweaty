@@ -8643,5 +8643,31 @@
     "start_date_local": "2026-06-13T06:59:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 3434.6,
+    "elevation_gain": 20.0,
+    "id": "18923955119",
+    "moving_time": 1113.0,
+    "name": "Recovery Jog",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T19:41:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 20042.1,
+    "elevation_gain": 32.0,
+    "id": "18924188877",
+    "moving_time": 2215.0,
+    "name": "Zwift - Recovery Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-14T20:19:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

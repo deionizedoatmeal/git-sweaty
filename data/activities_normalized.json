@@ -8669,5 +8669,18 @@
     "start_date_local": "2026-06-14T20:19:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 29510.9,
+    "elevation_gain": 431.0,
+    "id": "18937189984",
+    "moving_time": 3631.0,
+    "name": "Zwift - Low Endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-15T19:30:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -8682,5 +8682,18 @@
     "start_date_local": "2026-06-15T19:30:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 11464.0,
+    "elevation_gain": 301.9,
+    "id": "18951058687",
+    "moving_time": 3792.0,
+    "name": "Hilly mileage",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-16T17:11:13Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

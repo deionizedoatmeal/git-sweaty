@@ -6029,6 +6029,24 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18965244376",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 17,
+      "name": "The boys are back in town",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18977501003",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 9,
+      "name": "Arboretum yog",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18985037118",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10612,6 +10630,24 @@
           "distance": 3434.6,
           "elevation_gain": 20.0,
           "moving_time": 1113.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18977501003"
+          ],
+          "count": 1,
+          "distance": 4716.5,
+          "elevation_gain": 30.5,
+          "moving_time": 1423.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18985037118"
+          ],
+          "count": 1,
+          "distance": 6031.7,
+          "elevation_gain": 97.2,
+          "moving_time": 1837.0
         }
       },
       "TrailRun": {
@@ -11733,7 +11769,7 @@
       }
     }
   },
-  "generated_at": "2026-06-18T17:57:19.906723+00:00",
+  "generated_at": "2026-06-19T17:13:56.933090+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

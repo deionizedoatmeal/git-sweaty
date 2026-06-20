@@ -8734,5 +8734,18 @@
     "start_date_local": "2026-06-19T09:42:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 14297.1,
+    "elevation_gain": 59.1,
+    "id": "18999229560",
+    "moving_time": 4221.0,
+    "name": "Big shoutout to Alec for running me over with a bike on min 65 of my long run lol",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T10:15:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -8747,5 +8747,18 @@
     "start_date_local": "2026-06-20T10:15:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 1777.5,
+    "elevation_gain": 15.0,
+    "id": "19011919398",
+    "moving_time": 595.0,
+    "name": "Ouchy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T10:53:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -8773,5 +8773,31 @@
     "start_date_local": "2026-06-22T09:30:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 25341.1,
+    "elevation_gain": 285.0,
+    "id": "19042612901",
+    "moving_time": 2855.0,
+    "name": "Zwift - Endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-23T18:09:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 19807.4,
+    "elevation_gain": 60.0,
+    "id": "19042928177",
+    "moving_time": 1854.0,
+    "name": "Zwift - Endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-23T18:59:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -6092,6 +6092,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19042928177",
       "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 17,
+      "name": "Extra chunky madkin grind after the storms",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19055642117",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10071,6 +10080,15 @@
           "distance": 44875.9,
           "elevation_gain": 811.0,
           "moving_time": 7547.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19055642117"
+          ],
+          "count": 1,
+          "distance": 32276.1,
+          "elevation_gain": 542.0,
+          "moving_time": 5311.0
         }
       },
       "Ride": {
@@ -11851,7 +11869,7 @@
       }
     }
   },
-  "generated_at": "2026-06-24T17:01:43.742299+00:00",
+  "generated_at": "2026-06-25T17:07:27.535937+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

@@ -8799,5 +8799,18 @@
     "start_date_local": "2026-06-23T18:59:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 32276.1,
+    "elevation_gain": 542.0,
+    "id": "19055642117",
+    "moving_time": 5311.0,
+    "name": "Extra chunky madkin grind after the storms",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-24T17:19:46Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

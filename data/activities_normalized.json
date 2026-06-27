@@ -8825,5 +8825,31 @@
     "start_date_local": "2026-06-25T20:04:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 5063.4,
+    "elevation_gain": 66.0,
+    "id": "19078048819",
+    "moving_time": 759.0,
+    "name": "Bike Shakedown",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T16:24:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 10125.9,
+    "elevation_gain": 165.0,
+    "id": "19078341219",
+    "moving_time": 1480.0,
+    "name": "Zwift - Recovery Shakeout",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-26T16:52:58Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

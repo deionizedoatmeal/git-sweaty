@@ -8851,5 +8851,31 @@
     "start_date_local": "2026-06-26T16:52:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 3965.3,
+    "elevation_gain": 48.0,
+    "id": "19091479056",
+    "moving_time": 452.0,
+    "name": "Zwift - Warmup",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-27T18:19:04Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 69435.2,
+    "elevation_gain": 1099.0,
+    "id": "19092384211",
+    "moving_time": 6953.0,
+    "name": "Zwift - Epic Race - Everything Bagel (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-27T18:30:12Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

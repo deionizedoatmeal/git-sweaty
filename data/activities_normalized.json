@@ -8877,5 +8877,18 @@
     "start_date_local": "2026-06-27T18:30:12Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 5913.9,
+    "elevation_gain": 41.4,
+    "id": "19101998928",
+    "moving_time": 1766.0,
+    "name": "Innumerable heat indices",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T12:33:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

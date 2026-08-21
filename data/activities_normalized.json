@@ -9007,5 +9007,18 @@
     "start_date_local": "2026-08-19T18:56:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 1954.2,
+    "elevation_gain": 3.0,
+    "id": "19829699766",
+    "moving_time": 651.0,
+    "name": "Achilles rehab day 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-20T18:25:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

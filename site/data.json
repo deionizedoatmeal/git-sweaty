@@ -6236,6 +6236,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19816434870",
       "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 18,
+      "name": "Achilles rehab day 2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19829699766",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10918,6 +10927,15 @@
           "distance": 2468.0,
           "elevation_gain": 0.0,
           "moving_time": 776.0
+        },
+        "2026-08-20": {
+          "activity_ids": [
+            "19829699766"
+          ],
+          "count": 1,
+          "distance": 1954.2,
+          "elevation_gain": 3.0,
+          "moving_time": 651.0
         }
       },
       "TrailRun": {
@@ -12115,7 +12133,7 @@
       }
     }
   },
-  "generated_at": "2026-08-20T15:27:36.638348+00:00",
+  "generated_at": "2026-08-21T15:26:43.750296+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

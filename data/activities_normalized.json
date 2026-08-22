@@ -9020,5 +9020,18 @@
     "start_date_local": "2026-08-20T18:25:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 47055.8,
+    "elevation_gain": 69.0,
+    "id": "19842934588",
+    "moving_time": 5398.0,
+    "name": "Cocoa crusin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-21T17:39:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

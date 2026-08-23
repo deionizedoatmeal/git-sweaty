@@ -6254,6 +6254,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19842934588",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 14,
+      "name": "Still waiting on my Achilles transplant",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19855393264",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10954,6 +10963,15 @@
           "distance": 1954.2,
           "elevation_gain": 3.0,
           "moving_time": 651.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19855393264"
+          ],
+          "count": 1,
+          "distance": 3630.0,
+          "elevation_gain": 2.0,
+          "moving_time": 1208.0
         }
       },
       "TrailRun": {
@@ -12151,7 +12169,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T15:14:40.613105+00:00",
+  "generated_at": "2026-08-23T15:16:08.819074+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

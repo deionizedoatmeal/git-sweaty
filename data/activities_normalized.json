@@ -9046,5 +9046,18 @@
     "start_date_local": "2026-08-22T14:52:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 41031.6,
+    "elevation_gain": 2.0,
+    "id": "19871684347",
+    "moving_time": 4216.0,
+    "name": "Post work bird watching",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T18:02:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

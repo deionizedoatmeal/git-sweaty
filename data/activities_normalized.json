@@ -9059,5 +9059,18 @@
     "start_date_local": "2026-08-23T18:02:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 1860.3,
+    "elevation_gain": 0.0,
+    "id": "19884684000",
+    "moving_time": 611.0,
+    "name": "10' rehab",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-24T18:18:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

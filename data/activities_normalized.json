@@ -9085,5 +9085,31 @@
     "start_date_local": "2026-08-25T18:45:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 28994.8,
+    "elevation_gain": 3.0,
+    "id": "19915199861",
+    "moving_time": 3253.0,
+    "name": "Pad closures made for a short ride :(",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-26T17:44:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 2843.9,
+    "elevation_gain": 0.0,
+    "id": "19928595838",
+    "moving_time": 903.0,
+    "name": "15' rehab",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-27T17:40:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

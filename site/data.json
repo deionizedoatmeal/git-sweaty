@@ -6308,6 +6308,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19928595838",
       "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 17,
+      "name": "15' rehab",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19941164653",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11062,6 +11071,15 @@
           "distance": 2843.9,
           "elevation_gain": 0.0,
           "moving_time": 903.0
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "19941164653"
+          ],
+          "count": 1,
+          "distance": 2864.0,
+          "elevation_gain": 0.0,
+          "moving_time": 901.0
         }
       },
       "TrailRun": {
@@ -12259,7 +12277,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:12:20.366173+00:00",
+  "generated_at": "2026-08-28T23:49:21.229202+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

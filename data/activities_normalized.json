@@ -9124,5 +9124,18 @@
     "start_date_local": "2026-08-28T17:48:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 117003.0,
+    "elevation_gain": 62.0,
+    "id": "19954422431",
+    "moving_time": 13439.0,
+    "name": "Heat stroke & a torrential downpour",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T12:57:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

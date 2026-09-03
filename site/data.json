@@ -6344,6 +6344,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19997511514",
       "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 19,
+      "name": "10' (destination) rehab",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20014202818",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 10,
+      "name": "10' rehab",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20023499591",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11134,6 +11152,24 @@
           "distance": 4291.0,
           "elevation_gain": 2.0,
           "moving_time": 1354.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "20014202818"
+          ],
+          "count": 1,
+          "distance": 1989.0,
+          "elevation_gain": 4.0,
+          "moving_time": 612.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "20023499591"
+          ],
+          "count": 1,
+          "distance": 2027.0,
+          "elevation_gain": 0.0,
+          "moving_time": 634.0
         }
       },
       "TrailRun": {
@@ -12331,7 +12367,7 @@
       }
     }
   },
-  "generated_at": "2026-09-02T18:21:01.981367+00:00",
+  "generated_at": "2026-09-03T18:17:21.192851+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

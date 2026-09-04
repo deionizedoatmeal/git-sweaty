@@ -6362,6 +6362,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20023499591",
       "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 11,
+      "name": "Eugene Errands",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20024694529",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-04",
+      "hour": 6,
+      "name": "Traumatizing Alec with the cold and rain",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20036108562",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10568,6 +10586,24 @@
           "distance": 117003.0,
           "elevation_gain": 62.0,
           "moving_time": 13439.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "20024694529"
+          ],
+          "count": 1,
+          "distance": 8940.3,
+          "elevation_gain": 39.0,
+          "moving_time": 1687.0
+        },
+        "2026-09-04": {
+          "activity_ids": [
+            "20036108562"
+          ],
+          "count": 1,
+          "distance": 48910.8,
+          "elevation_gain": 484.4,
+          "moving_time": 7886.0
         }
       },
       "Run": {
@@ -12367,7 +12403,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T18:17:21.192851+00:00",
+  "generated_at": "2026-09-04T17:59:27.269225+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

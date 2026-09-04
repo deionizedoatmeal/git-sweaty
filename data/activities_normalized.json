@@ -9189,5 +9189,31 @@
     "start_date_local": "2026-09-03T10:46:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 8940.3,
+    "elevation_gain": 39.0,
+    "id": "20024694529",
+    "moving_time": 1687.0,
+    "name": "Eugene Errands",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-03T11:29:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 48910.8,
+    "elevation_gain": 484.4,
+    "id": "20036108562",
+    "moving_time": 7886.0,
+    "name": "Traumatizing Alec with the cold and rain",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-04T06:33:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

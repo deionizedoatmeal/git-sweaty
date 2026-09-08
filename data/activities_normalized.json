@@ -9228,5 +9228,18 @@
     "start_date_local": "2026-09-05T09:14:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 22864.0,
+    "elevation_gain": 181.0,
+    "id": "20082003167",
+    "moving_time": 2239.0,
+    "name": "Zwift - Short Endrance w/ Pickup",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-07T19:32:58Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

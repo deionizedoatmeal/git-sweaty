@@ -9267,5 +9267,18 @@
     "start_date_local": "2026-09-08T17:35:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 2864.6,
+    "elevation_gain": 21.0,
+    "id": "20109603718",
+    "moving_time": 881.0,
+    "name": "15' rehab",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-09T17:40:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -9397,5 +9397,57 @@
     "start_date_local": "2026-09-12T21:40:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 8228.6,
+    "elevation_gain": 48.0,
+    "id": "20165204003",
+    "moving_time": 819.0,
+    "name": "Zwift - Warmup",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-13T19:52:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 22704.3,
+    "elevation_gain": 126.0,
+    "id": "20165385967",
+    "moving_time": 1988.0,
+    "name": "Zwift - Race, 2nd again",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-13T20:10:25Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 4963.1,
+    "elevation_gain": 43.0,
+    "id": "20165447355",
+    "moving_time": 619.0,
+    "name": "Zwift - Cooldown",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-13T20:47:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 3818.0,
+    "elevation_gain": 23.0,
+    "id": "20175150459",
+    "moving_time": 1201.0,
+    "name": "20' rehab",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-14T12:38:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

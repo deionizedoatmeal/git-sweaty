@@ -9449,5 +9449,18 @@
     "start_date_local": "2026-09-14T12:38:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 13208.2,
+    "elevation_gain": 50.0,
+    "id": "20179449546",
+    "moving_time": 1274.0,
+    "name": "Zwift - Mini En+",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-14T22:00:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

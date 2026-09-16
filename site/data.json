@@ -6551,6 +6551,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20179449546",
       "year": 2026
+    },
+    {
+      "date": "2026-09-15",
+      "hour": 22,
+      "name": "Zwift - No time, mini ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20194633574",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 10,
+      "name": "Zwift - Warmup",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20201078759",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 10,
+      "name": "Zwift - Race",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20201487681",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12547,6 +12574,25 @@
           "distance": 13208.2,
           "elevation_gain": 50.0,
           "moving_time": 1274.0
+        },
+        "2026-09-15": {
+          "activity_ids": [
+            "20194633574"
+          ],
+          "count": 1,
+          "distance": 18046.2,
+          "elevation_gain": 84.0,
+          "moving_time": 1680.0
+        },
+        "2026-09-16": {
+          "activity_ids": [
+            "20201078759",
+            "20201487681"
+          ],
+          "count": 2,
+          "distance": 22633.2,
+          "elevation_gain": 171.0,
+          "moving_time": 2035.0
         }
       },
       "WeightTraining": {
@@ -12697,7 +12743,7 @@
       }
     }
   },
-  "generated_at": "2026-09-15T18:40:01.362109+00:00",
+  "generated_at": "2026-09-16T18:36:44.907799+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/26684557",
   "repo": "deionizedoatmeal/git-sweaty",

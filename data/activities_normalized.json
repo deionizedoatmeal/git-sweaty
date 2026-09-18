@@ -9501,5 +9501,18 @@
     "start_date_local": "2026-09-16T10:15:23Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 4899.5,
+    "elevation_gain": 0.0,
+    "id": "20220352574",
+    "moving_time": 1501.0,
+    "name": "Back on my KSC bullshit",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-17T18:39:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
